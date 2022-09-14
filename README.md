@@ -1,7 +1,7 @@
 # Tief
 A RPG Like Game like Ultima
 # This is an RPG like game like Ultima
-## This uses the allegro game library'and runs with DirectX or Direct3D
+## This uses the allegro game library and runs with DirectX or Direct3D
 ### The premise of the story is basically this: Vikings have been invading the British empire
  >for centuries, conquering and then being driven off in rebellions. The story in
 >Celtic Crusader does not include just fantasy creatures like you might find in some RPGs,
