@@ -1,18 +1,26 @@
-# Tief
-## This uses the allegro game library and runs with DirectX or Direct3D
-### The premise of the story is basically this: Vikings have been invading the British empire
- >for centuries, conquering and then being driven off in rebellions. The story in
->Tief does not include just fantasy creatures like you might find in some RPGs,
->such as vampires, skeletons  werewolves, giant snakes, giant spiders, dragons  and the like
+# Viking Conquest RPG
 
-**I didn't include the complete source code of this game because i'm still working some subroutines functions in this game**
+A role-playing game developed in Visual Basic .NET, set in the world of Viking invasions of the British empire.
 
-***You can have fun with these and tinker around with this***
- 
+## Features
 
-<sub>To install Git clone this repo</sub>
+    A historical storyline following the struggles of Viking warriors as they seek to conquer and defend their territories
+    No fantasy creatures - the game is grounded in the events and conflicts of the Viking age
+    Uses the Allegro game library and runs with DirectX or Direct3D
+    Available for older versions of Windows, including XP, GBA, and Windows 7
 
+## How to play
 
->Make sure to build task before you run
- 
->Available for devices running older versions of 'Windows OS' such as XP,GBA,Windows 7 etc.
+    fork this repo and clone it on your device
+    Open the game and select "New Game" to start a new adventure
+    Follow the in-game instructions to navigate the story and make choices that will impact the outcome of your journey
+    Use the on-screen controls to move your character, interact with the environment, and engage in combat
+    Save your progress and continue your journey whenever you have time to play.
+
+## Tips
+
+    Explore the world and interact with NPCs (non-player characters) to uncover hidden quests and secrets
+    Pay attention to your character's stats and equip them with the best gear to increase their chances of success in combat
+    Plan your strategy before entering battle to maximize your chances of victory
+
+We hope you enjoy Viking Conquest RPG and the epic tale of Viking conquest and rebellion it has to offer.
